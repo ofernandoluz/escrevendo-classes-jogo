@@ -1,0 +1,13 @@
+# Arquivos de backup
+*.bak
+
+# Arquivos temporários
+*.tmp
+
+# Diretórios de dependências ou arquivos de build
+node_modules/
+dist/
+
+# Arquivos de configuração sensíveis
+.env
+config.json
